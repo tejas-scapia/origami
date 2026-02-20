@@ -5,8 +5,11 @@ A collection of Origami Studio utilities and components.
 
 ## Utilities
 
+### Math
 - **Bigger/Smaller:** Compare two values and return the larger/smaller value.
 - **Between**: Check if a value is between a specified minimum and maximum.
+- **Ticker**: Like a counter, but doesn't wrap.
+
 - **Animate once:** Animates progress when pulsed. If animation is interrupted by a subsequent pulse, restarts the animation.
 
 ## Components
