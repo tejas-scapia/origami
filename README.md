@@ -10,6 +10,7 @@ A collection of Origami Studio utilities and components.
 - **Between**: Check if a value is between a specified minimum and maximum.
 - **Ticker**: Like a counter, but doesn't wrap.
 
+### Other
 - **Animate once:** Animates progress when pulsed. If animation is interrupted by a subsequent pulse, restarts the animation.
 
 ## Components
