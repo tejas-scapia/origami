@@ -10,7 +10,7 @@ A collection of Origami Studio utilities and components.
 - **Between:** Check if a value is between a specified minimum and maximum.
 - **Ticker:** Like a counter, but doesn't wrap.
 - **Loop Min/Max:** Find smallest/largest item in a loop.
-- **Distance/velocity snapping:** Snap a value to closest point in an array, based on current/projected position.
+- **Snap to points:** Snap a value to closest point in an array.
 
 ### Other
 - **Animate once:** Animates progress when pulsed. If animation is interrupted by a subsequent pulse, restarts the animation.
