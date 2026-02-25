@@ -11,6 +11,7 @@ A collection of Origami Studio utilities and components.
 - **Ticker:** Like a counter, but doesn't wrap.
 - **Loop Min/Max:** Find smallest/largest item in a loop.
 - **Snap to points:** Snap a value to closest point in an array.
+- **Slip:** Limit growth of values beyond boundaries (useful for overscroll)
 
 ### Other
 - **Animate once:** Animates progress when pulsed. If animation is interrupted by a subsequent pulse, restarts the animation.
