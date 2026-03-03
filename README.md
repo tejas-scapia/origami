@@ -16,6 +16,7 @@ A collection of Origami Studio utilities and components.
 ### Other
 - **Animate once:** Animates progress when pulsed. If animation is interrupted by a subsequent pulse, restarts the animation.
 - **Timed switch:** Switch component that turns itself off after a specified duration. 
+- **Custom spring:** Set of custom spring animation values
 
 ## Components
 
