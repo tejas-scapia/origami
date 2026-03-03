@@ -25,4 +25,4 @@ A collection of Origami Studio utilities and components.
 - **Debug/Checkbox:** turn on/off.
 - **Debug/Text:** display a value.
 - **Debug/Slider:** slide to choose a continuous value.
-
+- **Debug/Button:** perform actions on tap.
