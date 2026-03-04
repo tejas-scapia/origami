@@ -2,8 +2,12 @@
 
 A collection of Origami Studio utilities and components.
 
-
-## Utilities
+### Debug components
+- **Debug/Option:** select an option.
+- **Debug/Checkbox:** turn on/off.
+- **Debug/Text:** display a value.
+- **Debug/Slider:** slide to choose a continuous value.
+- **Debug/Button:** perform actions on tap.
 
 ### Math
 - **Bigger/Smaller:** Compare two values and return the larger/smaller value.
@@ -13,16 +17,11 @@ A collection of Origami Studio utilities and components.
 - **Snap to points:** Snap a value to closest point in an array.
 - **Slip:** Limit growth of values beyond boundaries (useful for overscroll)
 
-### Other
+### Animation
 - **Animate once:** Animates progress when pulsed. If animation is interrupted by a subsequent pulse, restarts the animation.
 - **Timed switch:** Switch component that turns itself off after a specified duration. 
 - **Custom spring:** Set of custom spring animation values
 
-## Components
-
-### Debug components
-- **Debug/Option:** select an option.
-- **Debug/Checkbox:** turn on/off.
-- **Debug/Text:** display a value.
-- **Debug/Slider:** slide to choose a continuous value.
-- **Debug/Button:** perform actions on tap.
+### Other
+- **Elapsed time:** Accurately measure time elapsed since start of prototype.
+- **Delay 1x:** Delay for x frames.
