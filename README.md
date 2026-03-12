@@ -25,4 +25,4 @@ A collection of Origami Studio utilities and components.
 ### Other
 - **Elapsed time:** Accurately measure time elapsed since start of prototype.
 - **Delay 1x:** Delay for x frames.
-- **Gesture intent:** Detect user intent from a gesture, based on velocity and distance. Used for two-way gestures (think forward/back)
+- **Gyro:** Better gyro patch, with built in damping and error accumulation prevention
