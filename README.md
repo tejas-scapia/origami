@@ -3,6 +3,7 @@
 A collection of Origami Studio utilities and components.
 
 ### Debug components
+- **Debug Panel:** bottom sheet to hold debug components
 - **Debug/Option:** select an option.
 - **Debug/Checkbox:** turn on/off.
 - **Debug/Text:** display a value.
